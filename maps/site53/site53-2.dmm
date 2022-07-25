@@ -28672,7 +28672,7 @@
 "ltv" = (
 /obj/machinery/door/airlock/glass/research{
 	name = "Brown Line";
-	req_access = list(list("ACCESS_SECURITY_LEVEL2","ACCESS_SCIENCE_LEVEL2","ACCESS_MEDICAL_LEVEL2"))
+	req_access = list(list("ACCESS_SECURITY_LEVEL2","ACCESS_SCIENCE_LEVEL2","ACCESS_MEDICAL_LEVEL2","ACCESS_ADMIN_LEVEL1"))
 	},
 /turf/simulated/floor/tiled/monotile,
 /area/site53/tram/lcz)
